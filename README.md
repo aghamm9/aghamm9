@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'M AGHAMM9 👋
+
+- 🔭 I’m currently working on css html java js py 
+- 🌱 I’m currently learning lua 
+- 💬 Ask me about discord css html java js py 
+- 📫 How to reach me: discord : ! GOD🥀#3773 :https://discord.gg/vhnFwbJ8tx
 
 <!--
 **aghamm9/aghamm9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
