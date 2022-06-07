@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning lua 
 - 💬 Ask me about discord css html java js py 
 - 📫 How to reach me: discord : ! GOD🥀#3773 :https://discord.gg/vhnFwbJ8tx
-<img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200.gif">
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <!--
 **aghamm9/aghamm9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
